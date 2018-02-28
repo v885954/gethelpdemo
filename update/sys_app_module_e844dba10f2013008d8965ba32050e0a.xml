@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="raja_test_git">dca313e90f2013008d8965ba32050e0f</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>test_git1s</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_36472_raja_test_test_git1</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_36472_raja_test.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-28 02:14:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e844dba10f2013008d8965ba32050e0a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test_git1s</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="raja_test_git" source="x_36472_raja_test">4ca35fa10f2013008d8965ba32050e98</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="raja_test_git">4ca35fa10f2013008d8965ba32050e98</sys_scope>
+        <sys_update_name>sys_app_module_e844dba10f2013008d8965ba32050e0a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-02-28 02:14:39</sys_updated_on>
+        <timeline_page/>
+        <title>test_git1s</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
